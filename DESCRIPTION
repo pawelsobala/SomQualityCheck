@@ -1,14 +1,15 @@
 Package: SomQualityCheck
-Title: What the Package Does (One Line, Title Case)
+Title: Assess the quality of Self Organizing Map
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Pawel",
+           family = "Sobala",
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: MIT + file LICENSE
+Description: This package contains functions that are aimed at testing the quality of Self Organizing Map.
+    The source of these functions is the article "Evaluating Self-Or aluating Self-Organizing Map Quality Measur ganizing Map Quality Measures as Conv es as Convergence Criteria" by Greogory T. Breard. 
+License: MIT
 Encoding: UTF-8
 LazyData: true
 Suggests: 
